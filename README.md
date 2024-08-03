@@ -2,7 +2,7 @@
 
 * One repo, reasy to understand
 
-# Const of Monolithic Architecture
+# Cons of Monolithic Architecture
 
 * Development environment with many modules can be hard to maintain.
 
