@@ -1,6 +1,6 @@
 # Pros of Monolithic Architecture
 
-* One repo, reasy to understand
+* One repo, easy to understand
 
 # Cons of Monolithic Architecture
 
@@ -23,3 +23,9 @@ assigned to take care of a part of  the system needs to use the same tech stack.
 # Cons of Microservices
 
 * Interservice communication stability is imperative to providing data consistency among services. (gRPC helps to improve the speed)
+
+# Scale Cube and Microservices
+
+Here is the link for scale cube reference -> https://microservices.io/articles/scalecube.html which is also referring to book called The Art of Scalability.
+
+![Screenshot 2024-08-03 at 17 38 00](https://github.com/user-attachments/assets/d9a583f1-e915-4c3e-a638-f26876533079)
