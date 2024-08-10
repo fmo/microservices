@@ -11,4 +11,4 @@
 # Cons/Challenges of Microservices
 
 * Interservice communication stability is imperative to providing data consistency among services. (gRPC helps to improve the speed)
-* Data consistency
+* Data consistency (Sagas are one solution for this https://github.com/fmo/saga-pattern) 
