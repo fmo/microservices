@@ -12,4 +12,4 @@
 
 * Interservice communication stability is imperative to providing data consistency among services. (gRPC helps to improve the speed)
 * Data consistency (Sagas are one solution for this https://github.com/fmo/saga-pattern and the other is 2PC(two-phase commit) - coordinates all the processes that form
-* distributed atomic trnasactions and determines whether they should be committed or aborted) 
+distributed atomic trnasactions and determines whether they should be committed or aborted) 
